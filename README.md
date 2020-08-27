@@ -1,1 +1,1 @@
-# jquery-throttle
+# jquery-throttle-debounce
